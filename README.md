@@ -1,34 +1,42 @@
-<img src="https://komarev.com/ghpvc/?username=abdurehims&label=Profile%20Views&color=0e75b6&style=flat" />
-
 <div align="center">
+
+<img src="assets/banner.png" width="100%" alt="Abdurehim Seid Banner" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=abdurehims&label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9"/>
 
 # 👋 Hi, I'm Abdurehim Seid
 
-### Full Stack Developer | Software Engineering Student
+### Full Stack Web Developer • Software Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;Node.js+Developer;Software+Engineering+Student;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=38BDF8&center=true&width=900&lines=Full+Stack+Web+Developer;React+Developer;Node.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 
 <br>
 
 <a href="https://abdurehims.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/abdurehims">
+<img src="https://img.shields.io/badge/GitHub-abdurehims-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/abdurehims">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💻 About Me
 
 ```javascript
 const abdurehim = {
-  location: "Ethiopia",
+  role: "Full Stack Web Developer",
   education: "Software Engineering Student",
-  role: "Full Stack Developer",
+  location: "Ethiopia 🇪🇹",
 
   frontend: [
     "HTML",
@@ -47,116 +55,77 @@ const abdurehim = {
     "MySQL"
   ],
 
-  currentGoal:
-    "Building scalable full-stack applications and working with international clients."
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Vercel"
+  ],
+
+  currentlyLearning: [
+    "System Design",
+    "Scalable Backend",
+    "Authentication"
+  ]
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mysql,git,github,vscode,vercel"/>
 
 </div>
 
 ---
 
-## 🌟 What I Do
-
-✅ Responsive Web Design
-
-✅ Full Stack Web Development
-
-✅ REST API Development
-
-✅ Database Design
-
-✅ React Applications
-
-✅ Modern UI Development
-
-✅ Portfolio & Business Websites
-
----
-
-## 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdurehims&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdurehims&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurehims&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurehims&layout=compact&theme=tokyonight"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurehims&theme=tokyonight"/>
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurehims&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 Featured Projects
 
-### 🌐 Portfolio Website
-
-Modern personal portfolio showcasing my projects and skills.
-
-🔗 https://abdurehims.vercel.app
-
----
-
-### 🛒 Full Stack E-Commerce Platform
-
-Built using:
-
-- React.js
-- Node.js
-- Express.js
-- MySQL
-- Tailwind CSS
-
-Features:
-
-- Authentication
-- Product Management
-- Shopping Cart
-- Order Tracking
+| Project | Description |
+|---------|-------------|
+| 🌐 Portfolio | Modern portfolio built with React & Tailwind CSS |
+| 🛒 E-Commerce | Full Stack shopping platform |
+| 📚 Student Management | Attendance & assignment management |
 
 ---
 
-### 📚 Student Management System
+# 📈 Activity Graph
 
-Manage students, courses, and records efficiently.
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdurehims&theme=tokyo-night"/>
 
-## 🎯 2026 Goals
-
-- Build impactful SaaS products
-- Contribute to Open Source
-- Work with global clients
-- Master System Design
-- Become a Senior Full Stack Engineer
+</div>
 
 ---
 
-## 📫 Let's Connect
+# 📫 Connect
 
 <div align="center">
 
 <a href="https://abdurehims.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-abdurehims.vercel.app-black?style=for-the-badge&logo=vercel">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Now-black?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="https://linkedin.com/in/abdurehims">
-<img src="https://img.shields.io/badge/LinkedIn-Abdurehim%20Seid-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
@@ -165,10 +134,6 @@ Manage students, courses, and records efficiently.
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Improve. Repeat."
-
-⭐ Thanks for visiting my profile!
+### ⭐ Code • Learn • Build • Improve • Repeat
 
 </div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdurehims&theme=tokyo-night" />
