@@ -1,6 +1,188 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Abdurehim Seid Banner" />
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Background -->
+<rect width="1600" height="500" fill="#0B1120"/>
+
+<!-- Gradient -->
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500">
+<stop offset="0%" stop-color="#0B1120"/>
+<stop offset="100%" stop-color="#111827"/>
+</linearGradient>
+
+<linearGradient id="title" x1="0" y1="0" x2="700" y2="0">
+<stop offset="0%" stop-color="#38BDF8"/>
+<stop offset="100%" stop-color="#8B5CF6"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+<feMerge>
+<feMergeNode in="coloredBlur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect width="1600" height="500" fill="url(#bg)"/>
+
+<!-- Glow Circles -->
+
+<circle cx="1350" cy="120" r="150" fill="#3B82F6" opacity="0.08"/>
+<circle cx="250" cy="420" r="180" fill="#9333EA" opacity="0.08"/>
+
+<!-- Decorative Lines -->
+
+<line x1="1000" y1="70" x2="1450" y2="70" stroke="#38BDF8" stroke-width="2" opacity=".3"/>
+<line x1="1000" y1="90" x2="1500" y2="90" stroke="#8B5CF6" stroke-width="2" opacity=".2"/>
+<line x1="1000" y1="110" x2="1400" y2="110" stroke="#38BDF8" stroke-width="2" opacity=".15"/>
+
+<!-- Left Accent -->
+
+<rect x="70" y="80" width="8" height="340" rx="5" fill="#38BDF8"/>
+
+<!-- Name -->
+
+<text
+x="110"
+y="170"
+font-size="64"
+font-family="Segoe UI"
+font-weight="700"
+fill="url(#title)"
+filter="url(#glow)">
+ABDUREHIM SEID
+</text>
+
+<!-- Subtitle -->
+
+<text
+x="110"
+y="225"
+font-size="30"
+font-family="Segoe UI"
+fill="#E5E7EB">
+Full Stack Web Developer
+</text>
+
+<text
+x="110"
+y="270"
+font-size="24"
+font-family="Segoe UI"
+fill="#94A3B8">
+Software Engineering Student
+</text>
+
+<!-- Description -->
+
+<text
+x="110"
+y="335"
+font-size="22"
+font-family="Segoe UI"
+fill="#CBD5E1">
+Building Modern, Fast & Responsive Web Applications
+</text>
+
+<text
+x="110"
+y="370"
+font-size="22"
+font-family="Segoe UI"
+fill="#CBD5E1">
+React • Node.js • Express • MySQL • Tailwind CSS
+</text>
+
+<!-- Tech Card -->
+
+<rect
+x="980"
+y="150"
+width="500"
+height="220"
+rx="20"
+fill="#111827"
+stroke="#38BDF8"
+stroke-width="2"
+opacity="0.95"/>
+
+<!-- Terminal Header -->
+
+<circle cx="1015" cy="180" r="8" fill="#EF4444"/>
+<circle cx="1045" cy="180" r="8" fill="#F59E0B"/>
+<circle cx="1075" cy="180" r="8" fill="#10B981"/>
+
+<text
+x="1110"
+y="187"
+font-size="18"
+font-family="Consolas"
+fill="#94A3B8">
+developer.js
+</text>
+
+<!-- Terminal Text -->
+
+<text
+x="1015"
+y="235"
+font-size="22"
+font-family="Consolas"
+fill="#38BDF8">
+const developer = {
+</text>
+
+<text
+x="1045"
+y="270"
+font-size="20"
+font-family="Consolas"
+fill="#F8FAFC">
+name: "Abdurehim",
+</text>
+
+<text
+x="1045"
+y="300"
+font-size="20"
+font-family="Consolas"
+fill="#F8FAFC">
+role: "Full Stack Developer",
+</text>
+
+<text
+x="1045"
+y="330"
+font-size="20"
+font-family="Consolas"
+fill="#F8FAFC">
+status: "Always Learning"
+</text>
+
+<text
+x="1015"
+y="360"
+font-size="22"
+font-family="Consolas"
+fill="#38BDF8">
+}
+</text>
+
+<!-- Bottom Line -->
+
+<rect
+x="0"
+y="490"
+width="1600"
+height="10"
+fill="url(#title)"/>
+
+</svg>
 
 <br>
 
