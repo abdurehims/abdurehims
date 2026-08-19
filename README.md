@@ -36,21 +36,6 @@ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" /> </td> </tr> <tr> <td colspan="2">
 Currently Learning
 <img src="https://skillicons.dev/icons?i=ts" /> </td> </tr> </table>
-If you want everything in the stack completely left-aligned
-
-Use this instead:
-
-Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-Database
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-Currently Learning
-<img src="https://skillicons.dev/icons?i=ts" /
-      
 
 </div> <table> <tr> <td width="33%" align="center">
 🌐
