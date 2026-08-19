@@ -18,29 +18,7 @@ I don't just want to write code.
 
 I want to understand the problem behind it.
 
-</td> <td width="45%">
-╭──────────────────────────╮
-│      DEVELOPER.OS        │
-├──────────────────────────┤
-│                          │
-│  NAME                    │
-│  Abdurehim Seid          │
-│                          │
-│  ROLE                    │
-│  Full-Stack Developer    │
-│                          │
-│  FOCUS                   │
-│  Web Applications        │
-│                          │
-│  CURRENT                 │
-│  TypeScript              │
-│                          │
-│  STATUS                  │
-│  ● Building              │
-│                          │
-╰──────────────────────────╯
 
-</td> </tr> </table>
 <div align="center">
 
 Frontend
@@ -48,12 +26,12 @@ Frontend
 
 <br/><br/>
 
-Backend
+Backend <br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 <br/><br/>
 
-Database
+Database <br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 <br/><br/>
@@ -160,58 +138,8 @@ UI experiments
 API projects
 JavaScript challenges
 </td> </tr> </table>
-<div align="center">
 
-</div>
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  TYPESCRIPT                                                  │
-│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  →        │
-│                                                              │
-│  REACT + TYPESCRIPT                                          │
-│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━         →          │
-│                                                              │
-│  BACKEND ARCHITECTURE                                         │
-│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━              →        │
-│                                                              │
-│  DATABASE DESIGN                                              │
-│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                →        │
-│                                                              │
-│  CLEAN CODE & SOFTWARE ENGINEERING                            │
-│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━        →        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-
-<div align="center">
-06 / DEVELOPMENT PHILOSOPHY
-<br/>
-Build → Break → Debug → Understand → Improve
-<br/> <table> <tr> <td align="center">
-
-01
-
-Build
-
-Don't wait until everything is perfect.
-
-</td> <td align="center">
-
-02
-
-Break
-
-Mistakes are part of learning.
-
-</td> <td align="center">
-
-03
-
-Debug
-
-Understand the actual problem.
-
-</td> <td align="center">
-
+      
 04
 
 Improve
