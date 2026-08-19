@@ -24,17 +24,14 @@ I want to understand the problem behind it.
 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
-<br/><br/>
 
 Backend <br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<br/><br/>
 
 Database <br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-<br/><br/>
 
 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
