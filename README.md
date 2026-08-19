@@ -1,96 +1,270 @@
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:00E5FF&height=220&section=header&text=ABDUREHIM%20SEID&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=58&descSize=15&animation=fadeIn" /> <br/> <a href="https://abdurehims.vercel.app"> <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=050816" /> </a> &nbsp; <a href="https://github.com/abdurehims"> <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=ffffff" /> </a> &nbsp; <a href="https://www.linkedin.com/in/abdurehims"> <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /> </a> <br/> <br/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Turning+ideas+into+working+products;Learning+TypeScript;Growing+as+a+Full-Stack+Developer" /> </div>
 <div align="center">
+01 / ABOUT
+</div> <table> <tr> <td width="55%">
+Hey, I'm Abdurehim 👋
 
-# Hi, I'm Abdurehim Seid 👋
+I'm a Full-Stack Developer and Software Engineering student who enjoys turning ideas into real, useful software.
 
-### Full-Stack Developer · Software Engineering Student
+I like working across the entire development process:
 
-I build ideas into real, working products — front end to back end, design to deployment.
+UI → Frontend → API → Database → Deployment
 
-<br>
+I'm currently focused on becoming a stronger engineer by building real projects, solving problems, and learning from every iteration.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-08090B?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4D7CFF?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-08090B?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-4D7CFF?style=for-the-badge&logo=gmail&logoColor=white)](#)
+<br/>
 
+I don't just want to write code.
+
+I want to understand the problem behind it.
+
+</td> <td width="45%">
+╭──────────────────────────╮
+│      DEVELOPER.OS        │
+├──────────────────────────┤
+│                          │
+│  NAME                    │
+│  Abdurehim Seid          │
+│                          │
+│  ROLE                    │
+│  Full-Stack Developer    │
+│                          │
+│  FOCUS                   │
+│  Web Applications        │
+│                          │
+│  CURRENT                 │
+│  TypeScript              │
+│                          │
+│  STATUS                  │
+│  ● Building              │
+│                          │
+╰──────────────────────────╯
+
+</td> </tr> </table>
+<div align="center">
+02 / TECH STACK
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+<br/><br/>
+
+Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br/><br/>
+
+Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br/><br/>
+
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+<br/><br/>
+
+Currently Learning
+<img src="https://skillicons.dev/icons?i=ts" /> </div>
+<div align="center">
+03 / WHAT I BUILD
+</div> <table> <tr> <td width="33%" align="center">
+🌐
+Web Apps
+
+Modern responsive applications designed around real user needs.
+
+</td> <td width="33%" align="center">
+⚛️
+React Apps
+
+Interactive interfaces with clean component architecture.
+
+</td> <td width="33%" align="center">
+🔌
+Backend APIs
+
+REST APIs, business logic, authentication, and data handling.
+
+</td> </tr> <tr> <td width="33%" align="center">
+🗄️
+Databases
+
+Designing and working with application data.
+
+</td> <td width="33%" align="center">
+📱
+Responsive UI
+
+Interfaces that work across devices and screen sizes.
+
+</td> <td width="33%" align="center">
+☁️
+Deployment
+
+Taking projects from local development to production.
+
+</td> </tr> </table>
+<div align="center">
+04 / SELECTED PROJECTS
+</div> <table> <tr> <td width="50%">
+🛒 E-Commerce Platform
+
+A full-stack e-commerce project built to understand how a real online shopping application works.
+
+Focus
+
+Product management
+Shopping cart
+API integration
+Backend architecture
+Database operations
+Responsive UI
+
+React Node.js Express Database
+
+</td> <td width="50%">
+🧑‍💻 Developer Portfolio
+
+My personal portfolio designed to present my projects, skills, development journey, and work.
+
+Focus
+
+Modern UI
+Responsive design
+Animations
+Component architecture
+Deployment
+
+React JavaScript Tailwind Vercel
+
+<br/>
+
+<a href="https://abdurehims.vercel.app">→ View Portfolio</a>
+
+</td> </tr> <tr> <td width="50%">
+🌦️ Weather Application
+
+A project focused on understanding APIs, asynchronous JavaScript, dynamic rendering, and external data.
+
+JavaScript API HTML CSS
+
+</td> <td width="50%">
+🧪 More Experiments
+
+Small projects are part of my learning process.
+
+Calculator
+To-do application
+Product grid
+UI experiments
+API projects
+JavaScript challenges
+</td> </tr> </table>
+<div align="center">
+05 / CURRENTLY LEARNING
 </div>
-
-<br>
-
-## 🚀 About Me
-
-- 🎓 Software Engineering student, currently deep in full-stack development
-- 💻 I turn ideas into interfaces, interfaces into applications, and applications into things people actually use
-- 🛠️ Comfortable across the stack — React on the front, solid APIs and databases underneath, shipped to production
-- 📈 Constantly building, breaking things, and learning from every iteration
-- 🎯 Goal: write better software, build better products, and keep growing as an engineer
-
-<br>
-
-## 🧰 Tech Stack
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  TYPESCRIPT                                                  │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  →        │
+│                                                              │
+│  REACT + TYPESCRIPT                                          │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━         →          │
+│                                                              │
+│  BACKEND ARCHITECTURE                                         │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━              →        │
+│                                                              │
+│  DATABASE DESIGN                                              │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                →        │
+│                                                              │
+│  CLEAN CODE & SOFTWARE ENGINEERING                            │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━        →        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
 <div align="center">
+06 / DEVELOPMENT PHILOSOPHY
+<br/>
+Build → Break → Debug → Understand → Improve
+<br/> <table> <tr> <td align="center">
 
-**Languages**
+01
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+Build
 
-**Frontend**
+Don't wait until everything is perfect.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+</td> <td align="center">
 
-**Backend**
+02
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+Break
 
-**Database & Tools**
+Mistakes are part of learning.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</td> <td align="center">
 
-</div>
+03
 
-<br>
+Debug
 
-## 📊 GitHub Stats
+Understand the actual problem.
 
+</td> <td align="center">
+
+04
+
+Improve
+
+Make the next version better.
+
+</td> </tr> </table> </div>
 <div align="center">
+07 / GITHUB
+<br/> <img height="180" src="https://github-readme-stats.vercel.app/api?username=abdurehims&show_icons=true&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=4D7CFF&text_color=FFFFFF&rank_icon=github" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurehims&layout=compact&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=FFFFFF" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=08090B&title_color=4D7CFF&icon_color=4D7CFF&text_color=F5F5F5" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=08090B&stroke=4D7CFF&ring=4D7CFF&fire=4D7CFF&currStreakLabel=F5F5F5" alt="GitHub Streak" height="165"/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=08090B&title_color=4D7CFF&text_color=F5F5F5" alt="Top Languages" height="165"/>
-
-</div>
-
-<br>
-
-## 🌱 Currently
-
-- 🔭 Working on full-stack projects that connect real front ends to real APIs and databases
-- 📚 Sharpening TypeScript, system design fundamentals, and deployment workflows
-- 🤝 Open to collaborating on web apps, APIs, and open-source projects
-- 💬 Ask me about React, Node.js, or anything full-stack
-
-<br>
-
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurehims&hide_border=true&background=00000000&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=9CA3AF" /> </div>
 <div align="center">
+08 / 2026 ROADMAP
+<br/> <table> <tr> <td>✅</td> <td>Build real-world web projects</td> </tr> <tr> <td>✅</td> <td>Strengthen React fundamentals</td> </tr> <tr> <td>🔄</td> <td>Learn TypeScript deeply</td> </tr> <tr> <td>🔄</td> <td>Build larger full-stack applications</td> </tr> <tr> <td>🔄</td> <td>Improve backend architecture</td> </tr> <tr> <td>⬜</td> <td>Contribute to open source</td> </tr> <tr> <td>⬜</td> <td>Build production-quality products</td> </tr> </table> </div>
+<div align="center">
+09 / CONNECT
+<br/>
 
-### 💡 "Not chasing perfect — chasing better, one project at a time."
+I'm always open to meeting developers, learning from others,
+collaborating on interesting ideas, and building useful products.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=4D7CFF" alt="Profile views"/>
+<br/> <a href="https://abdurehims.vercel.app"> <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-050816?style=for-the-badge&labelColor=050816&color=00E5FF" /> </a> <a href="https://github.com/abdurehims"> <img src="https://img.shields.io/badge/⌘%20GITHUB-050816?style=for-the-badge&labelColor=050816&color=4D7CFF" /> </a> <a href="https://www.linkedin.com/in/abdurehims"> <img src="https://img.shields.io/badge/IN%20LINKEDIN-050816?style=for-the-badge&labelColor=050816&color=8B5CF6" /> </a> <br/> <br/>
+Code. Learn. Build. Repeat.
+<br/> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:4D7CFF,100:8B5CF6&height=120&section=footer" /> </div>
+Important
 
-</div>
+This gives you the appearance of a CSS-designed website, but it uses GitHub-compatible HTML, Markdown, SVG/image services, tables, and badges rather than actual CSS.
+
+If you put actual CSS like:
+
+<style>
+body {
+  background: #050816;
+}
+</style>
+
+GitHub will not let you style the README that way.
+
+For your profile, I would use this visual direction:
+
+Deep navy/black → cyan → electric blue → violet
+
+with:
+
+glass/card-style sections
+monospace developer elements
+terminal-inspired blocks
+minimal badges
+animated typing header
+GitHub statistics
+project cards
+roadmap
+personal developer story
