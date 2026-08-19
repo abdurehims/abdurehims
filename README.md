@@ -19,29 +19,39 @@ I don't just want to write code.
 I want to understand the problem behind it.
 
 
-<div align="center">
-
+<table> <tr> <td width="50%" valign="top">
 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
+<br/><br/>
 
-Backend <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-
-Database <br/><br/>
+Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" /> </td> <td width="50%" valign="top">
+Database
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
 <br/><br/>
 
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" /> </td> </tr> <tr> <td colspan="2">
 Currently Learning
-<img src="https://skillicons.dev/icons?i=ts" /> </div>
-<div align="center">
-03 / WHAT I BUILD
+<img src="https://skillicons.dev/icons?i=ts" /> </td> </tr> </table>
+If you want everything in the stack completely left-aligned
+
+Use this instead:
+
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+Currently Learning
+<img src="https://skillicons.dev/icons?i=ts" /
+      
+
 </div> <table> <tr> <td width="33%" align="center">
 🌐
 Web Apps
